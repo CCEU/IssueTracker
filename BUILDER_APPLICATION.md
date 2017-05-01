@@ -6,6 +6,8 @@ Your application to become a Builder is very simple and it's very easy to apply.
 
 > *GERMAN* - Du kannst dich auch auf Deutsch als Builder bewerben! Benutze dafür bitte die Informationen auf [dieser Seite](https://github.com/CCEU/IssueTracker/blob/master/BUILDER_APPLICATION_GERMAN.md).
 
+*If you dont want to create a GitHub Account, please email us at staff@cceu.eu*
+
 Please follow this simple template and include as much as you can:
 
 ### 1. General Information
