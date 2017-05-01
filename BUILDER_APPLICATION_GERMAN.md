@@ -2,6 +2,8 @@
 
 Sich als Builder zu bewerben ist deutlich einfacher als sich als Mod zu bewerben. Allerdings sind wir bei Buildern sehr wählerisch...
 
+*Falls du dir keinen GitHub-Account anlegen möchtest, schicke uns deine Bewerbung bitte per E-Mail an staff@cceu.eu*
+
 Bitte befolge die folgenden Vorgaben und füge soviele Informationen wie möglich hinzu. Wenn du willst kannst du dir auch die [Informationen zur Mod-Bewerbung](https://github.com/CCEU/IssueTracker/blob/master/STAFF_INFO.md) durchlesen, diese können auch hierbei hilfreich sein.
 
 ### 1. Allgemeine Informationen
