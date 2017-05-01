@@ -1,2 +1,2 @@
 # IssueTracker
-[Alle CCEU related Issues/Bugs](https://github.com/CCEU/IssueTracker/issues)
+[All CCEU related Issues/Bugs (click here)](https://github.com/CCEU/IssueTracker/issues)
