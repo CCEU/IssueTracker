@@ -14,7 +14,7 @@ If you find a potential exploit or vulnerability, please exercise reasonable dis
 
 Issues can be [submitted](https://github.com/CCEU/IssueTracker/issues/new) at the [issue tracker](https://github.com/CCEU/IssueTracker/issues).
 
-### Do:
+### :green_heart: Do:
 
 * Follow the formatting provided to the best of your ability, making sure to include steps to reproduce your issue
 * Search the issue tracker to ensure that your issue is not a duplicate
@@ -22,8 +22,9 @@ Issues can be [submitted](https://github.com/CCEU/IssueTracker/issues/new) at th
 * Be clear and concise in your description
 * Take advantage of [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)--it's awesome, and it makes your submission that much better! :smile:
 * Use a *vanilla* environment, making sure to remove any browser extensions or client-side mods
+* Use German :de: or English :us: as your Language for the Issue!
 
-### Do not:
+### :x: Do not:
 
 * Bump issues to receive a response (all issues are acknowledged)
 * Argue unproductively in an issue's comments
