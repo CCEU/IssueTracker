@@ -8,7 +8,7 @@ This is a public issue-tracking repository for bugs and confirmed features relat
 If you find a potential exploit or vulnerability, please exercise reasonable disclosure:
 
 1. Privately [contact CCEU staff](mailto:staff@cceu.eu?subject=Important%20security%20vulnerability) about the issue.
-2. **Do not** publicly disclose the issue immediately (give Overcast Network staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
+2. **Do not** publicly disclose the issue immediately (give CCEU staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
 ## Submitting
 
