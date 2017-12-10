@@ -1,4 +1,4 @@
-Issues ([more help](https://github.com/CCEU/IssueTracker/wiki))
+Issues
 ======
 
 This is a public issue-tracking repository for bugs and confirmed features related to the CCEU Server Network.
