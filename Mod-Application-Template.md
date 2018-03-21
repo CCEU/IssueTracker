@@ -5,14 +5,14 @@
   - Age (Note: You must be 16 or over to apply):
   - Do you have the ability to record sound/video?
   - What is your current rank on CCEU?
-  - Social-Media links (Twitter, Twitch, YouTube, etc.):
+  - Social-Media links (Twitter, Twitch, YouTube, etc.) (optional):
   - Are you multilingual? (Fluent in multiple languages. Not just learning one.)
   - Do you speak German?
 
 ### 2. Where are you most active on the CCEU Network?
   - What games do you play?
   - Do you have a clan-channel on CCEU?
-  - Etc..? 
+  - Etc..?
 
 ### 3. How much time do you have to contribute to the role?
 
